@@ -1,11 +1,5 @@
 # Fitness-Web-App
 
-## Description
-
-# Project Name
-
-## Description
-
 FitnessAI is a comprehensive fitness application designed to help users achieve their health and fitness goals. The application leverages AI to provide personalized workout plans, track progress, and offer nutritional advice. Users can interact with the app through a user-friendly interface, access various fitness resources, and monitor their fitness journey effectively.
 
 ## Project Structure
